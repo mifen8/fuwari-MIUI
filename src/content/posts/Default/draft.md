@@ -31,21 +31,3 @@ series: 技术交流
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
   ></iframe>
 </div>
-
-[刷新本页~](https://mifer.top/posts/default/draft/)
-
-test
-
-多级菜单!
-
-统计访问！
-
-全屏背景图!
-
-置顶文章!
-
-建站时间!
-
-公告!
-
-lang:"en",//language code,e.g.'en','zh_CN','ja',etc.

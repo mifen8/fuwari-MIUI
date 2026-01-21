@@ -2,9 +2,9 @@
 
 基于 [Astro](https://astro.build) 开发的静态博客模板。
 
-[**🖥️在线预览**](https://mifer.top/)
+[**🖥️在线预览**](https://fuwari-miui.pages.dev/）
 
-![Preview Image](https://github.com/user-attachments/assets/0d76c08c-19a6-473c-8f77-3a7470e24873)
+![Preview Image](https://github.com/user-attachments/assets/567ef277-3a2b-4474-9f94-244aff136ba4）
 
 ## 部署 (以Netlify举例)
 1. [使用此模板](https://github.com/new?template_name=fuwari-MIUI&template_owner=mifen8)
@@ -12,8 +12,7 @@
 
 Fuwari 是一个开源的主题。本网站用于该项目的文档、演示与社区信息。
 
-- 网站： https://mifer.top/
-- 仓库： https://github.com/mifen8/mifer
+- 网站： https://fuwari-miui.pages.dev/
 - License： MIT（见 ./LICENSE）
 - Code of Conduct： ./CODE_OF_CONDUCT.md
 - Contributing： ./CONTRIBUTING.md
